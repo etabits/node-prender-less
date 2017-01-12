@@ -1,5 +1,5 @@
 {
-  "name": "node-prender-less",
+  "name": "prender-less",
   "version": "0.1.0",
   "description": "Less.js dynamic stylesheet language plugin for prender",
   "main": "index.js",
